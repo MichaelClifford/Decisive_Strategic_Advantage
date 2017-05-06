@@ -2,4 +2,4 @@
 Repository for AI projects 
 
 1. VideoGan
-2. TrumpText Generator
+2. TrumpText Generator using LSTM
